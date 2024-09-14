@@ -1,0 +1,6 @@
+<resources>
+    <color name="primaryColor">#FF0000</color> <!-- Red -->
+    <color name="primaryDarkColor">#8B0000</color> <!-- Dark Red -->
+    <color name="textColor">#FFFFFF</color> <!-- White -->
+    <color name="textColorSecondary">#000000</color> <!-- Black -->
+</resources>

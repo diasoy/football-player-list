@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Indonesia Football Player</string>
+
+    <string-array name="player_name">
+        <item>Ivar Jenner</item>
+        <item>Jay Idzes</item>
+        <item>Justin Hubner</item>
+        <item>Marselino Ferdinan</item>
+        <item>Nathan Tjoe A On</item>
+        <item>Rafael Struick</item>
+        <item>Ragnar Oratmangoen</item>
+        <item>Sandy Walsh</item>
+        <item>Shayne Pattynama</item>
+        <item>Thom Haye</item>
+    </string-array>
+
+    <string-array name="player_description">
+        <item>
+            Ivar Jenner (lahir 10 Januari 2004) adalah pemain sepak bola professional asal Indonesia yang bermain sebagai gelandang untuk klub Eredivise Utrecht dan tim nasional Indonesia. Lahir di Utrecht, Ivar adalah pesepakbola keturunan Indonesia. Keturunan Indonesia Ivar berasal dari nenek dari pihak ayah, yang lahir di Jawa. Dalam sebuah wawancara ia mengatakan, “Ibu dari ayah saya atau nenek saya lahir di Jawa (Jember). Jadi ayah saya setengah Indonesia dan saya seperempat Indonesia. Orang tua ibuku berasal dari Belanda. Jadi sisi Belanda saya berasal dari ibu saya". Pada 22 Mei 2023, Ivar resmi memperoleh kewarganegaraan Indonesia. Ivar bermain untuk IJsselstein yang berbasis di akademi IJFC dan Ajax sebelum pindah ke Utrecht pada tahun 2016. Dia menandatangani kontrak profesional pertamanya pada Mei 2021.
+        </item>
+        <item>
+            Jay Noah Idzes (lahir 2 Juni 2000) adalah pemain sepak bola profesional asal Indonesia yang bermain sebagai bek tengah untuk klub Serie A, Venezia dan tim nasional Indonesia.Lahir di Belanda, Idzes adalah keturunan Indonesia. Pada 28 Desember 2023, Idzes resmi memperoleh kewarganegaraan Indonesia. Pada tanggal 7 Maret 2024, Idzes menerima panggilan ke tim nasional Indonesia untuk pertandingan Kualifikasi Piala Dunia FIFA 2026 melawan Vietnam pada tanggal 21 Maret dan 26 Maret 2024.
+        </item>
+        <item>
+            Justin Quincy Hubner (lahir 14 September 2003) adalah pemain sepak bola profesional asal Indonesia yang bermain sebagai bek tengah untuk klub Cerezo Osaka dipinjam dari klub Wolverhampton Wanderers dan tim nasional Indonesia. Hubner lahir dari ayah bernama Ferdinan Patrick Rudolf Hubner dan ibunya bernama Brigitte Prophitus. Ayahnya merupakan warga Belanda keturunan Indonesia, sedangkan ibunya adalah orang Belanda. Pada 6 Desember 2023, Hubner resmi memperoleh kewarganegaraan Indonesia setelah mengucapkan Sumpah WNI yang merupakan syarat terakhir pemain naturalisasi menjadi WNI.
+        </item>
+        <item>
+            Marselino Ferdinan Philipus (lahir 9 September 2004) adalah pemain sepak bola profesional yang bermain sebagai gelandang serang untuk tim Divisi Kedua Inggris Oxford United dan tim nasional Indonesia.Marselino mengawali karier profesionalnya bersama Persebaya Surabaya pada tahun 2021. Dia adalah salah satu jebolan kompetisi internal Persebaya, kompetisi yang juga diikuti Rizky Ridho, dan rutin berkompetisi secara internal. Di tahun pertamanya, dia mendapatkan penghargaan pemain muda terbaik dan masuk dalam 60 talenta muda dan menjanjikan buatan The Guardian.Kariernya di tim nasional dimulai pada tahun 2022, menjadikannya sebagai pemain dengan usia debut termuda kedua. Golnya di kualifikasi Piala Asia AFC 2023 menjadi gol dengan pencetak gol termuda untuk tim nasional.
+        </item>
+        <item>
+           Nathan Noël Romejo Tjoe-A-On (pelafalan dalam bahasa Indonesia: [ˈt͡ʃuˈäˈon], choo-AH-on)[1]; lahir 22 Desember 2001) adalah pemain sepak bola profesional asal Indonesia yang bermain sebagai bek kiri untuk klub Swansea City dan tim nasional Indonesia. Lahir di Belanda, Tjoe-A-On adalah keturunan Suriname dan Indonesia. Pada tanggal 7 Maret 2024, Tjoe-A-On menerima panggilan ke tim nasional Indonesia untuk pertandingan Kualifikasi Piala Dunia FIFA 2026 melawan Vietnam pada tanggal 21 Maret dan 26 Maret 2024.
+        </item>
+        <item>
+            Rafael William Struick (lahir 27 Maret 2003) adalah pemain sepak bola profesional Indonesia yang bermain sebagai penyerang untuk klub Eerste Divisie ADO Den Haag dan tim nasional Indonesia. Lahir di Leidschendam, Belanda, Rafael memiliki darah Indonesia dari kedua belah pihak orangtuanya. Ayahnya yang bernama Brian Struick adalah warga negara Belanda keturunan Indonesia. Neneknya Rafael dari pihak ayahnya bernama Eleonora Fredrika Rientsma Struick. Sang nenek merupakan perempuan kelahiran Semarang, 24 April 1952. Sementara itu, ibunya Rafael yang bernama Noraly Soedito memiliki darah Suriname dan Jawa. Pada 22 Mei 2023, Struick secara resmi memperoleh kewarganegaraan Indonesia.
+        </item>
+        <item>
+            Ragnar Anthonius Maria Oratmangoen (lahir 21 Januari 1998) adalah pemain sepak bola profesional asal Indonesia yang bermain sebagai pemain sayap atau gelandang serang untuk klub Liga Pro Belgia Dender. Lahir di Belanda, ia membela Timnas indonesia lewat naturalisasi. Lahir di Belanda, Oratmangoen adalah seorang Muslim keturunan Indonesia, dengan kakek dan nenek berasal dari Fordata, Kepulauan Tanimbar, Maluku. Dia berpindah agama ke Islam sejak berusia 15 tahun. Oratmangoen mempunyai hubungan kekerabatan dengan Duta Besar Indonesia untuk Tiongkok dan Mongolia Djauhari Oratmangun. Pada tanggal 18 Maret 2024, Oratmangoen resmi memperoleh kewarganegaraan Indonesia.
+        </item>
+        <item>
+            Sandy Henny Walsh (lahir 14 Maret 1995) adalah pesepakbola profesional yang bermain sebagai bek untuk klub Liga pro belgia KV Mechelen. Lahir di Belgia, ia bermain untuk Tim nasional Indonesia.Walsh lahir di Belgia dari ayah keturunan Irlandia kelahiran Inggris yang berasal dari keluarga Somalia-Afrika Selatan dan seorang ibu keturunan Indonesia kelahiran Swiss yang dibesarkan di Belanda. Oleh karena itu, dia memenuhi syarat untuk membela Belgia, Inggris, Irlandia, Swiss, Belanda, dan Indonesia. Pada 17 November 2022, Walsh resmi dinaturalisasi menjadi warga negara Indonesia dan membela tim nasional Indonesia.
+        </item>
+        <item>
+            Shayne Elian Jay Pattynama (lahir 11 Agustus 1998) adalah pemain sepak bola profesional asal Indonesia yang bermain sebagai bek kiri untuk klub KAS Eupen dan tim nasional Indonesia. Meskipun pada dasarnya adalah bek kiri, ia juga bisa bermain sebagai gelandang. Pattynama adalah keturunan Indonesia dari seorang ayah yang merupakan etnis Maluku dari Pulau Haruku, Maluku Tengah. Pada 24 Januari 2023, Pattynama secara resmi memperoleh kewarganegaraan Indonesia. Pada bulan Maret 2023, Pattynama dipanggil oleh pelatih Indonesia Shin Tae-yong untuk dua pertandingan persahabatan melawan Burundi pada tanggal 25 dan 28.
+        </item>
+        <item>
+            Thom Jan Marinus Haye (lahir 9 Februari 1995) adalah pemain sepak bola profesional asal Indonesia yang bermain sebagai gelandang untuk klub Almere dan tim nasional Indonesia. Haye adalah keturunan Indonesia melalui neneknya yang berasal dari Sulawesi Utara. Pada 18 Maret 2024, Haye resmi memperoleh kewarganegaraan Indonesia. Haye adalah pemain internasional muda Belanda, pernah tampil untuk tim nasional di level U-15 dan U-21. Dia adalah bagian dari tim yang memenangkan Kejuaraan U-17 Eropa UEFA 2012. Pada Desember 2023, Haye menjalani proses naturalisasi untuk bermain untuk Indonesia. Dia akan bermain melawan Vietnam di Kualifikasi Piala Dunia FIFA 2026.
+        </item>
+    </string-array>
+
+    <string-array name="player_photo">
+        <item>@drawable/ivar_jenner</item>
+        <item>@drawable/jay_idzes</item>
+        <item>@drawable/justin_hubner</item>
+        <item>@drawable/marselino_ferdinan</item>
+        <item>@drawable/nathan_noel</item>
+        <item>@drawable/rafael_struick</item>
+        <item>@drawable/ragnar_oratmangoen</item>
+        <item>@drawable/sandy_walsh</item>
+        <item>@drawable/shayne_pattynama</item>
+        <item>@drawable/thom_haye</item>
+    </string-array>
+
+    <string-array name="player_position">
+        <item>Midfielder</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Midfielder</item>
+        <item>Defender</item>
+        <item>Forward</item>
+        <item>Midfielder</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Midfielder</item>
+    </string-array>
+
+    <string-array name="player_height">
+        <item>180 cm</item>
+        <item>185 cm</item>
+        <item>190 cm</item>
+        <item>175 cm</item>
+        <item>180 cm</item>
+        <item>185 cm</item>
+        <item>180 cm</item>
+        <item>185 cm</item>
+        <item>190 cm</item>
+        <item>175 cm</item>
+    </string-array>
+
+    <string-array name="player_weight">
+        <item>70 kg</item>
+        <item>75 kg</item>
+        <item>80 kg</item>
+        <item>65 kg</item>
+        <item>70 kg</item>
+        <item>75 kg</item>
+        <item>70 kg</item>
+        <item>75 kg</item>
+        <item>80 kg</item>
+        <item>65 kg</item>
+    </string-array>
+
+    <string-array name="player_club">
+        <item>Utrecht</item>
+        <item>Venezia</item>
+        <item>Cerezo Osaka</item>
+        <item>Oxford United</item>
+        <item>Swansea City</item>
+        <item>ADO Den Haag</item>
+        <item>Dender</item>
+        <item>KV Mechelen</item>
+        <item>KAS Eupen</item>
+        <item>Almere</item>
+    </string-array>
+
+    <string name="about">About Me</string>
+</resources>
